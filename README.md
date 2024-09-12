@@ -1,12 +1,8 @@
 # 
 ![portada](https://github.com/user-attachments/assets/23003f9c-f7f5-4bf1-8e04-15cd87724f13)
-<h1 align="center">Acá vas a encontrar trabajos de la Fiuba y algunos proyectos personales</h1>
-
-
-
 
 <br>
-<h3 align="center">Lenguajes de programción:</h3>
+<h3 align="center">Lenguajes de programación:</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
