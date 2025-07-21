@@ -8,9 +8,7 @@
 </p>
 
 
----
 
-###  Contacto
 
 <p align="center">
   <a href="https://linkedin.com/in/chavelaa" target="_blank">
